@@ -17,6 +17,6 @@ pysocks>=1.7
 toml>=0.10
 selenium
 pyvirtualdisplay
-flask
+Flask
 gunicorn
-aio-http
+aiohttp
