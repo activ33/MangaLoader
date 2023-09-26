@@ -10,4 +10,5 @@ xbot = Client(
 	plugins=dict(root="plugins"),
 )
 
+print("I'm Alive.")
 xbot.run()
