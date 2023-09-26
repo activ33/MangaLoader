@@ -1,4 +1,4 @@
-Pyrogram-repl
+Pyrogram
 TgCrypto
 manga-py==1.33.2
 Pillow
